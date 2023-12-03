@@ -5,7 +5,7 @@
 import Foundation
 import UIKit
 
-/// ItemViewModel
+/// ItemViewModel struct
 struct ItemViewModel {
     let title: String
     let subtitle: String
