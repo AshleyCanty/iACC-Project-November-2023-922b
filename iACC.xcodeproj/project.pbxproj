@@ -43,6 +43,7 @@
 		08927BD5268618AC009195BD /* FriendsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08927BCB268618AC009195BD /* FriendsAPI.swift */; };
 		08927BD6268618AC009195BD /* NotImplementedViewControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08927BCC268618AC009195BD /* NotImplementedViewControllers.swift */; };
 		24C4AC512B1D29F60044DDED /* ItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24C4AC502B1D29F60044DDED /* ItemViewModel.swift */; };
+		24F57E202B1D5904005E0860 /* UIViewController+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F57E1F2B1D5904005E0860 /* UIViewController+extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,7 @@
 		08927BCB268618AC009195BD /* FriendsAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendsAPI.swift; sourceTree = "<group>"; };
 		08927BCC268618AC009195BD /* NotImplementedViewControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotImplementedViewControllers.swift; sourceTree = "<group>"; };
 		24C4AC502B1D29F60044DDED /* ItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemViewModel.swift; sourceTree = "<group>"; };
+		24F57E1F2B1D5904005E0860 /* UIViewController+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +234,7 @@
 				08927BC6268618AC009195BD /* CardAPI.swift */,
 				080833E1268F69C200A8099A /* ArticlesAPI.swift */,
 				08927BC22686185C009195BD /* Supporting Files */,
+				24F57E1F2B1D5904005E0860 /* UIViewController+extension.swift */,
 			);
 			path = iACC;
 			sourceTree = "<group>";
@@ -361,6 +364,7 @@
 			files = (
 				08927B932686183A009195BD /* AppDelegate.swift in Sources */,
 				08927BCF268618AC009195BD /* ListViewController.swift in Sources */,
+				24F57E202B1D5904005E0860 /* UIViewController+extension.swift in Sources */,
 				08040FFC268B4C1D0062A93B /* MainTabBarController.swift in Sources */,
 				24C4AC512B1D29F60044DDED /* ItemViewModel.swift in Sources */,
 				08927BD0268618AC009195BD /* CardAPI.swift in Sources */,
